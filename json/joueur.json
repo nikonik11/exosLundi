@@ -1,0 +1,22 @@
+[
+    {
+    "nom": "batman",
+    "xp": 200,
+    "pseudo": "batou",
+    "imgUrl": "./assets/batman.png"
+    },
+
+    {
+    "nom": "captain america",
+    "xp": 500,
+    "pseudo": "le ricain",
+    "imgUrl": "./assets/marvel.png"
+    },
+
+    {
+    "nom": "superman",
+    "xp": 100,
+    "pseudo": "l'homme en slip",
+    "imgUrl": "./assets/superman.png"
+    }
+]
